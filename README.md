@@ -22,4 +22,4 @@ Tools: Postman, Alchemy (free tier)
 - Local blockchain fork with Hardhat
 - Basic E2E with Cypress + MetaMask
 
-Contact: [Your LinkedIn] | [Your Email] | Available immediately
+Contact: https://www.linkedin.com/in/kothakota-bindu-520575137/ | kbindu.work@gmail.com | Available immediately
