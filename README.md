@@ -1,1 +1,23 @@
-# Web3-QA-portfolio
+# Web3 QA Portfolio – Transitioning from Traditional QA
+
+Experienced QA Engineer (6+ years) transitioning to Web3/Blockchain testing.  
+Hands-on with JSON-RPC APIs, manual dApp testing, local forks, and more.  
+Available for remote mid-level Web3 QA roles immediately.
+
+## 1. Ethereum JSON-RPC API Testing (Sepolia Testnet via Alchemy)
+- Collection: [Ethereum-json-rpc-testing.json] (download to import in Postman)
+- Methods covered: eth_blockNumber, eth_getBalance, eth_gasPrice, eth_estimateGas, eth_call, eth_getBlockByNumber, etc.
+- Features: Basic & logical assertions, error handling, chaining potential
+- Rate limiting/throughput test:
+  - Ran 50 iterations (~1,950 requests) with 0ms delay via Collection Runner
+  - Avg response time: 166 ms
+  - 0 errors – stable under moderate burst load
+
+Tools: Postman, Alchemy (free tier)
+
+## Next Projects (In Progress)
+- Manual dApp testing (Uniswap/Aave on testnet)
+- Local blockchain fork with Hardhat
+- Basic E2E with Cypress + MetaMask
+
+Contact: [Your LinkedIn] | [Your Email] | Available immediately
