@@ -15,6 +15,8 @@ Available for remote mid-level Web3 QA roles immediately.
 
 Tools: Postman, Alchemy (free tier)
 
+<img width="1273" height="364" alt="image" src="https://github.com/user-attachments/assets/12c0e5bd-8c85-4356-8986-ddcfbfc0d357" />
+
 ## Next Projects (In Progress)
 - Manual dApp testing (Uniswap/Aave on testnet)
 - Local blockchain fork with Hardhat
