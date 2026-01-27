@@ -12,10 +12,10 @@ The focus is on:
 
 ---
 
-## 🧪 Projects Overview
+##  Projects Overview
 
 ### 1️⃣ Playwright QA Test Suite (UI + API Automation)
-📁 `playwright-qa-test-suite/`
+ `playwright-qa-test-suite/`
 
 **What it demonstrates**
 - End-to-End UI testing using **Playwright + TypeScript**
@@ -34,7 +34,7 @@ The focus is on:
 ---
 
 ### 2️⃣ Hardhat QA Test Suite (Smart Contract Testing)
-📁 `hardhat-qa-test-suite/`
+ `hardhat-qa-test-suite/`
 
 **What it demonstrates**
 - Smart contract testing using **Hardhat**
@@ -51,7 +51,7 @@ The focus is on:
 ---
 
 ### 3️⃣ JSON-RPC Validation Tests
-📁 `rpc-validation-tests/`
+ `rpc-validation-tests/`
 
 **What it demonstrates**
 - Direct testing of **Ethereum JSON-RPC APIs**
@@ -65,7 +65,7 @@ The focus is on:
 
 ---
 
-## ⚙️ CI/CD & Automation Philosophy
+## CI/CD & Automation Philosophy
 
 - Each project has **isolated CI workflows**
 - CI runs automatically on every push / PR
@@ -77,7 +77,7 @@ The focus is on:
 
 ---
 
-## 🧠 Testing Strategy Highlights
+## Testing Strategy Highlights
 
 - **UI is never the source of truth** — backend and on-chain state are always validated
 - APIs are tested independently before UI validation
@@ -86,10 +86,10 @@ The focus is on:
 
 ---
 
-## 📬 Contact
+## Contact
 If you'd like to discuss testing strategies, Web3 QA challenges, or automation design:
 
-📧 Email: kbindu.work@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/kothakota-bindu-520575137/
+Email: kbindu.work@gmail.com
+LinkedIn: https://www.linkedin.com/in/kothakota-bindu-520575137/
 
 ---
